@@ -104,6 +104,7 @@ body {
   flex-direction: column;
   border-radius: 0.8rem;
   transition: background-color 100ms ease-in-out;
+  pointer-events: none;
 }
 .card .actions .follow-info h2 a span {
   color: #1c9eff;
