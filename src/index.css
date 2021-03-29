@@ -32,6 +32,8 @@ body {
   box-sizing: border-box;
 }
 
+/* La clase menu son para agregar un posible menu en la card (Por los momentos no lo vi necesario y lo quité del html) */
+
 .card .menu {
   width: 100%;
   height: 5.5rem;
@@ -142,6 +144,10 @@ body {
   background-color: #e8a200;
   transform: scale(1);
 }
+
+
+
+/* La clase desc son para agregar una posible descripción en la card (Por los momentos no lo vi necesario y lo quité del html) */
 .card .desc {
   text-align: justify;
   padding: 0 2rem 2.5rem;

@@ -1,6 +1,6 @@
 import React from 'react'
 import { PatientCard } from './components/PatientCard'
-// Test
+
 export const NutrialusTestApp = () => {
     return (
         <>
