@@ -17,7 +17,6 @@ export const PatientCard = () => {
         <>
             <div className="card animate__animated animate__bounce">
                 <div className="banner">
-                    {/* <img  src={image} alt="imgProfile"  /> */}
                     <img  src={`${image}?x=${email}`} alt="imgProfile"  />
                 </div>
                 <h2 className="name"> {name} </h2>
