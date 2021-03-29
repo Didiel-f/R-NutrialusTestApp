@@ -25,8 +25,8 @@ export const PatientCard = () => {
                 <div className="title"> Nutricionista: {nutritionist} </div>
                 <div className="actions">
                     <div className="follow-info">
-                        <h2><a href="/#"><span className="material-icons material-icons-round">email</span><small className="animate__animated animate__fadeIn"> {email} </small></a></h2>
-                        <h2><a href="/#"><span className="material-icons material-icons-round">phone</span><small className="animate__animated animate__fadeIn"> {phone} </small></a></h2>
+                        <h2><a href="#"><span className="material-icons material-icons-round">email</span><small className="animate__animated animate__fadeIn"> {email} </small></a></h2>
+                        <h2><a href="#"><span className="material-icons material-icons-round">phone</span><small className="animate__animated animate__fadeIn"> {phone} </small></a></h2>
                     </div>
                     <div className="follow-btn">
                         <button
